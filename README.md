@@ -1,2 +1,2 @@
 # .github
-pvX Github Profile
+PVX.AI Github Profile
